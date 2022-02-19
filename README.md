@@ -1,5 +1,5 @@
-# Users with Bank Accounts
-* Coding Dojo Assignment: Object Oriented Programming in Python
+# Users With Bank Accounts
+* Coding Dojo Assignment: Object Oriented Programming in Python.
 
 # Objectives:
 * Practice writing classes with class associations.
@@ -10,6 +10,8 @@
 and the BankAccount class and import each module as needed.
 
 * Update User class, so that each instantiated user has multiple accounts upon instantiation.
+
+* Update Instance methods with loops and conditions, as well as apply class associations and abstractions, in order to create the option of choosing one of many accounts for each instance of the User class.
 
 # Tasks:
 * Update the User class __init__ method.
