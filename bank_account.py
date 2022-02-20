@@ -10,6 +10,7 @@ class BankAccount:
     # Ninja Bonus
     # Initiate variable with empt list to store bank account info
     all_bank_accounts_info = []
+    
     # Constructor using Special Method init
     def __init__(self,interest_rate = 0.01,account_balance = 0): # Instance Constructor upon Instantiation
         self.interest_rate = interest_rate
